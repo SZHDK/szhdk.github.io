@@ -63,11 +63,11 @@
     <div id="overlay" onclick="startPage()"> [ CLICK TO ENTER ] </div>
 
     <video autoplay muted loop playsinline id="bg-video">
-        <source src="mai.mp4" type="video/mp4">
+        <source src="c5.mp4" type="video/mp4">
     </video>
 
     <audio id="bg-music" loop>
-        <source src="mai.mp3" type="audio/mpeg">
+        <source src="tongue.mp3" type="audio/mpeg">
     </audio>
 
     <div class="container">
